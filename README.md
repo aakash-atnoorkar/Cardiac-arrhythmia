@@ -15,3 +15,15 @@ The study aims at classifying the Cardiac Arrhythmia disease into two classes â€
 * The trained model was then applied on test set
 * Confusion Matrix, Lift Chart, ROC and AUC were determined and plotted
 
+<table>
+  <tr>
+    <td>Confusion Matrix</td>
+     <td>Lift Chart</td>
+     <td>ROC Chart</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/aakashatnoorkar/Cardiac-arrhythmia/blob/master/Images/boosted%20tree%20confusion%20matrix.png" width=270 height=480></td>
+    <td><img src="https://github.com/aakashatnoorkar/Cardiac-arrhythmia/blob/master/Images/lift%20chart.png" width=270 height=480></td>
+    <td><img src="https://github.com/aakashatnoorkar/Cardiac-arrhythmia/blob/master/Images/ROC%20chart.png" width=270 height=480></td>
+  </tr>
+ </table>
